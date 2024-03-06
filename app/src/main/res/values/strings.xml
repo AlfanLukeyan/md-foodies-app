@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">FoodiesApp</string>
+
+    <string name="heroes_name">Food Name</string>
+    <string name="description">Description</string>
+    <string name="profile">Profile</string>
+    <string name="back">Back</string>
+
+    <string-array name="data_name">
+        <item>Burger With Fried Fries</item>
+        <item>Green Leafy Vegetable Dish</item>
+        <item>Rice With Zucchini, Soft Boiled Egg, and Parsley</item>
+        <item>Berry Cream Dessert</item>
+        <item>Croissant</item>
+        <item>Churros With Chocolate Dip</item>
+        <item>Hot dog Bun</item>
+        <item>A Bowl of Garden Salad</item>
+        <item>Cooked Eggs and Meat</item>
+        <item>Vegetable Sandwich</item>
+        <item>Irresistible Vanilla Cream Ladyfinger Cake</item>
+    </string-array>
+
+    <string-array name="data_weight">
+        <item>300g</item>
+        <item>200g</item>
+        <item>250g</item>
+        <item>150g</item>
+        <item>100g</item>
+        <item>200g</item>
+        <item>150g</item>
+        <item>200g</item>
+        <item>250g</item>
+        <item>200g</item>
+        <item>150g</item>
+    </string-array>
+
+    <string-array name="data_likes">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Delicious burger with fried fries, perfect for lunch or dinner. The burger is made from beef, lettuce, tomato, and cheese. The fried fries are made from potatoes and seasoned with salt and pepper.</item>
+        <item>Green leafy vegetable dish is a healthy and delicious dish. It is made from various green leafy vegetables such as spinach, kale, and lettuce. It is seasoned with salt, pepper, and olive oil.</item>
+        <item>Rice with zucchini, soft boiled egg, and parsley is a simple yet delicious dish. The rice is cooked with zucchini and seasoned with salt and pepper. The soft boiled egg is cooked to perfection and garnished with parsley.</item>
+        <item>Berry cream dessert is a sweet and creamy dessert. It is made from various berries such as strawberries, blueberries, and raspberries. The cream is made from heavy cream, sugar, and vanilla extract.</item>
+        <item>Croissant is a delicious and flaky pastry. It is made from butter, flour, and sugar. It is perfect for breakfast or as a snack.</item>
+        <item>Churros with chocolate dip is a sweet and crunchy snack. The churros are made from flour, sugar, and cinnamon. The chocolate dip is made from dark chocolate and heavy cream.</item>
+        <item>Hot dog bun is a classic and delicious snack. The bun is made from flour, sugar, and yeast. It is filled with a hot dog sausage and topped with ketchup and mustard.</item>
+        <item>A Bowl of garden salad is a healthy and refreshing dish. It is made from various vegetables such as lettuce, cucumber, and tomatoes. It is seasoned with salt, pepper, and olive oil.</item>
+        <item>Cooked eggs and meat is a simple yet delicious dish. The eggs are cooked to perfection and served with cooked meat such as bacon or sausage. It is perfect for breakfast or brunch.</item>
+        <item>Vegetable sandwich is a healthy and delicious sandwich. It is made from various vegetables such as lettuce, cucumber, and tomatoes. It is seasoned with salt, pepper, and olive oil.</item>
+        <item>Irresistible vanilla cream ladyfinger cake is a sweet and creamy dessert. It is made from ladyfinger biscuits, heavy cream, sugar, and vanilla extract. It is perfect for dessert or as a snack.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/burger_with_fried_fries</item>
+        <item>@drawable/green_leafy_vegetable_dish</item>
+        <item>@drawable/rice_with_zucchini</item>
+        <item>@drawable/berry_cream_dessert</item>
+        <item>@drawable/croissant</item>
+        <item>@drawable/churros_with_chocolate_dip</item>
+        <item>@drawable/hot_dog_bun</item>
+        <item>@drawable/a_bowl_of_garden_salad</item>
+        <item>@drawable/cooked_eggs_and_meat</item>
+        <item>@drawable/vegetable_sandwich</item>
+        <item>@drawable/irresistible_vanilla_cream_ladyfinger_cake</item>
+    </integer-array>
+</resources>
